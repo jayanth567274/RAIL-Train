@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of TheRailTrain",
+  "description": "A comprehensive railway companion for tracking live train status, PNR status, and AI-powered journey planning.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
